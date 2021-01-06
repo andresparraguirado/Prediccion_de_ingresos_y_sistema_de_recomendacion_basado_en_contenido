@@ -1,0 +1,3 @@
+https://www.kaggle.com/rounakbanik/the-movies-dataset
+
+Descargar de este link los archivos rating, credits y movies_metadata. Depositar en el directorio Datasets.
